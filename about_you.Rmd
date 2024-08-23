@@ -1,7 +1,7 @@
 
 ---
 title: "First Knit"
-author: "Your Name"
+author: "David Acevedo"
 output: 
   html_document:
     number_sections: true
@@ -19,7 +19,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-i attended highschool in palmdale california and i did graduate i didnt like either math or class
+i attended highschool in palmdale california in Highland Highschool. I was in IS until the junior year. I did graduate in 2024, I didnt like either math or english i really enjoyed more of enginering and American Sign Language, but for me english was easier for me than math i had an A+ in english but math i had a C.
      
 
 
